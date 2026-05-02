@@ -23,7 +23,7 @@ col1, col2 = st.columns(2)
 with col1:
     sqft = st.number_input("Square Footage", 500, 5000, 2000)
     beds = st.selectbox("Bedrooms", [1, 2, 3, 4, 5])
-    baths = st.selectbox("Bathrooms", [1, 2, 3])
+    baths = st.selectbox("Bathrooms", [1, 2, 3,4,5,6])
 
 with col2:
     year = st.number_input("Year Built", 1950, 2025, 2000)
