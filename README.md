@@ -85,8 +85,8 @@ House-Price-Prediction-App/
 
 ## 🌐 Live Demo
 
-👉 [https://house-price-prediction-1212.streamlit.app/](https://house-price-prediction-1212.streamlit.app/)
-
+👉 [[https://house-price-prediction-1212.streamlit.app/](https://house-price-prediction-1212.streamlit.app/)
+](https://house-price-prediction-app-obyvgzusaeecc4uguwhdxx.streamlit.app/)
 ---
 
 ## 🎯 Use Case
